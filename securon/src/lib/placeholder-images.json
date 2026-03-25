@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract calming blue and purple background",
+      "imageUrl": "https://picsum.photos/seed/securon1/1200/800",
+      "imageHint": "abstract blue purple"
+    }
+  ]
+}
